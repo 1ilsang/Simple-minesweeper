@@ -15,15 +15,20 @@ Make, Play, Enjoy!
 |:----------------------------------------:|:-----------------------------------------:|
 |<img src="docs/2.png" width=300 alt="Dead image - alert view" />|<img src="docs/3.png" width=300 alt="Dead image - array view" />|
 
-1. How to play?
-  - Just double-click on the index.html.
-  - It's optimized for Chrome(75.0.3).
 
-2. A point of interest
-  - Time control.
-  - Array control.
-  - Dom control.
-  - BFS.
+If you press any one of the sequences, the game starts.
+
+When the game starts, the number goes up every second in the upper left black box.
+
+- How to play?
+   - Just double-click on the index.html.
+   - It's optimized for Chrome(75.0.3).
+
+- A point of interest
+   - Time control.
+   - Array control.
+   - Dom control with EventListener
+   - BFS.
 
 License
 ---
