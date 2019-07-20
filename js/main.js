@@ -8,7 +8,7 @@
     let mines = [];
     let minesTd = [];
 
-    const init = async function(mineNums = 3, tableSize = 3) {
+    const init = async function(mineNums = 10, tableSize = 10) {
         await setMines(mineNums);
         totalCnt = Math.floor(tableSize * tableSize - mineNums);
         console.log(mines);
