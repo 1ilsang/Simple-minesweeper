@@ -7,27 +7,33 @@ Simple-Minesweeper
 
 Make, Play, Enjoy!
 
-| Initial array status | Mines array with console |
+| Initial array status | Mines array at console |
 |:----------------------------------------:|:-----------------------------------------:|
 |<img src="docs/0.png" width=300 alt="Initial array status" />|<img src="docs/1.png" width=300 alt="Mines array console view" />|
 
-| Dead image - alert | Dead image - Area |
+| Game over - Alert | Game over - Area |
 |:----------------------------------------:|:-----------------------------------------:|
 |<img src="docs/2.png" width=300 alt="Dead image - alert view" />|<img src="docs/3.png" width=300 alt="Dead image - array view" />|
+
+| Win image |
+|:----------------------------------------:|
+|<img src="docs/4.png" width=500 alt="Win image" />|
 
 
 If you press any one of the sequences, the game starts.
 
-When the game starts, the number goes up every second in the upper left black box.
+When the game starts, the time flows every second in the upper left black box.
+
+If you want more information, [click here](https://1ilsang.blog.me/221590963211). (This document is written in Korean) 
 
 - How to play?
    - Just double-click on the index.html.
    - It's optimized for Chrome(75.0.3).
 
-- A point of interest
+- A point of interests
    - Time control.
    - Array control.
-   - Dom control with EventListener
+   - Dom control with EventListener.
    - BFS.
 
 License
