@@ -20,8 +20,7 @@ Make, Play, Enjoy!
 |<img src="docs/4.png" width=500 alt="Win image" />|
 
 
-If you press any one of the sequences, the game starts.
-
+If you press any one of the sequences, the game starts. <br/>
 When the game starts, the time flows every second in the upper left black box.
 
 If you want more information, [click here](https://1ilsang.blog.me/221590963211). (This document is written in Korean) 
